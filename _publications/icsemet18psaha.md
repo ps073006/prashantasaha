@@ -1,4 +1,13 @@
 ---
+title: "Optimal allocation of 3G budget for smartphones running heterogeneous applications"
+collection: publications
+permalink: /publications/Nsyss2016
+venue: "2016 International Conference on Networking Systems and Security (NSysS)"
+date: 2016-4-7
+citation: '<b>Saidur Rahman</b>, Anika Anzum Prima, Md. Abdur Razzaque <i> IEEE Conference on Networking Systems and Security.</i> <b>NSysS 2016</b>.'
+---
+
+---
 title: "Fault detection effectiveness of source test case generation strategies for metamorphic testing"
 collection: publications
 permalink: /publication/icsemet18psaha
