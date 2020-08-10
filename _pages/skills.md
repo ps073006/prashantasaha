@@ -10,5 +10,5 @@ Java, , php, Javascript, Html, CSS, SQL, Powerbuilder, Python, React Native, C, 
 ## Frameworks and tools:
 MySQL, MSSQL, SQLAnywhere, Realm, MongoDB, Eclipse, Microstrategy, Selenium, Git, Randoop, RStudio, Kubernetes, Spyder
 
-##Operating Systems: 
+## Operating Systems: 
 Windows, Linux, Unix
