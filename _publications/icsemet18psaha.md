@@ -4,9 +4,8 @@ collection: publications
 permalink: /publications/icsemet18psaha
 venue: 'Proceedings of the 3rd International Workshop on Metamorphic Testing, ICSE18: 40th International Conference on Software Engineering'
 date: 2018-05-27
-citation: '<b>Prashanta Saha</b> and Upulee Kanewala. 2018.&quot;Fault detection effectiveness of source test case generation strategies for metamorphic testing.&quot;.<b>In Proceedings of the 3rd International Workshop on Metamorphic Testing (MET 2018)</b> '
+citation: '<b>Prashanta Saha</b> and Upulee Kanewala. 2018.&quot;Fault detection effectiveness of source test case generation strategies for metamorphic testing.&quot;<b>In Proceedings of the 3rd International Workshop on Metamorphic Testing (MET 2018)</b> '
 ---
-
 
 [[pdf]](http://prashantasaha.github.io/files/icsemet2018ps.pdf)
 ## Abstract
