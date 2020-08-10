@@ -2,7 +2,7 @@
 title: "Fault detection effectiveness of source test case generation strategies for metamorphic testing"
 collection: publications
 permalink: /publications/icsemet18psaha
-venue: "2016 International Conference on Networking Systems and Security (NSysS)"
+venue: 'Proceedings of the 3rd International Workshop on Metamorphic Testing, ICSE18: 40th International Conference on Software Engineering'
 date: 2018-05-27
 citation: '<b>Saidur Rahman</b>, Anika Anzum Prima, Md. Abdur Razzaque <i> IEEE Conference on Networking Systems and Security.</i> <b>NSysS 2016</b>.'
 ---
